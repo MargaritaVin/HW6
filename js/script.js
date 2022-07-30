@@ -19,3 +19,5 @@ alert(min);
 alert(mult);
 alert(div);
 alert(deg);
+
+console.log("New feature");
